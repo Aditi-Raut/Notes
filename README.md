@@ -1,10 +1,10 @@
 # Notes
 This is a basic notes app made while learning Android.
 
-#What this app does.
+# What this app does.
 This a typical notes app. Here we can add new notes which get saved. We can delete notes as and when we wish.
 
-#Concepts Used
+# Concepts Used
 1. SharedPrefernces - Used to store the data permanentlt. Stores notes in arrayList
 2. Two Activities. - Switching between activities using intent
 3. Listiew - To display notes
